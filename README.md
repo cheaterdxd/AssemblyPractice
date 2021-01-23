@@ -1,5 +1,6 @@
 # AssemblyPractice
  Learn assembly by some simple fucntion
+ 
 Ở 2 hệ điều hành khác nhau mình sử dụng 2 phiên bản asm khác nhau:
 - linux dùng nasm
 - windows dùng masm
